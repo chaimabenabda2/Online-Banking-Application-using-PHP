@@ -1,0 +1,9 @@
+**Database Name: bnkms**
+
+**Developed by Guenidi yassine & chaima benabdallah**
+
+
+**Staff Login Details**
+
+ID:	  210001
+Password: password
